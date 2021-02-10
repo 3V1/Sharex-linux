@@ -1,0 +1,4 @@
+pip3 install pyperclip
+sudo apt-get install xclip
+sudo apt-get install xsel
+pip3 install pandas
